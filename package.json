@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@waves/signature-generator": "^1.0.9",
+    "bcoin": "^1.0.2",
+    "bignumber.js": "^8.0.1",
+    "bitcoinjs-lib": "^4.0.2",
+    "dotenv": "^6.2.0",
+    "middleware_auth_lib": "^1.0.0",
+    "nem-sdk": "^1.6.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
